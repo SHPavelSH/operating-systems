@@ -1,4 +1,6 @@
-#Welcome to the Operating Systems course from ICESI University (Cali, Colombia - South America)
+#Operating Systems 
+#ICESI University - www.icesi.edu.co
+#Cali, Colombia - South America
 
 #Introduction
 
