@@ -1,6 +1,4 @@
-#Operating Systems 
-#ICESI University - www.icesi.edu.co
-#Cali, Colombia - South America
+#Operating Systems - www.icesi.edu.co
 
 #Introduction
 
