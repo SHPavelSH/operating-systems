@@ -6,9 +6,9 @@ In computing, a system call is how a program requests a service from an operatin
 
 #syscl_1.c
 
-This example shows a basic application written in C
+This example shows a basic application written in C language
 
 #syscl_2.c
 
-This example shows a basic application that returns the process id of the application
+This example shows a basic application that returns its process id
 
