@@ -10,7 +10,7 @@ This is the source code of a hello world application written in C language
 
 #syscl_2.c
 
-This is the source code of a basic application that employs the getpid() system call to returns its 
+This is the source code of a basic application that employs the getpid() system call to return its 
 process id
 
 #syscl_3.c
